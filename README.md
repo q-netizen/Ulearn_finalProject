@@ -12,9 +12,9 @@
 ![img.png](sсreens/img.png)
 
 # Задание 2:
-Выведите в консоль страну с самым высоким показателем экономики среди "Latin America and Caribbean" и "Eastern Asia"
-![image](https://github.com/q-netizen/Ulearn_finalProject/assets/76805272/10e0acb2-f6b5-45a3-9fd8-7d995943e717)
+Выведите в консоль страну с самым высоким показателем экономики среди "Latin America and Caribbean" и "Eastern Asia".  
+Ответ: ![image](https://github.com/q-netizen/Ulearn_finalProject/assets/76805272/10e0acb2-f6b5-45a3-9fd8-7d995943e717)
 
 # Задание 3:
-Найдите страну с "самыми средними показателями" среди "Western Europe" и "North America"
-![image](https://github.com/q-netizen/Ulearn_finalProject/assets/76805272/dd57a426-1c09-4c20-a480-ba3a67ed32ee)
+Найдите страну с "самыми средними показателями" среди "Western Europe" и "North America".  
+Ответ: ![image](https://github.com/q-netizen/Ulearn_finalProject/assets/76805272/dd57a426-1c09-4c20-a480-ba3a67ed32ee)
