@@ -27,7 +27,6 @@ public class Parser {
                     Double.parseDouble(data[7]), Double.parseDouble(data[8]),
                     Double.parseDouble(data[9]), Double.parseDouble(data[10]),
                     Double.parseDouble(data[11])));
-
         }
         return countryList;
     }

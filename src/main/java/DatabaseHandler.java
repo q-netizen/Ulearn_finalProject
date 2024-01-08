@@ -8,7 +8,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class DatabaseHandler {
     private static final String url= "jdbc:sqlite:country.s3db";
     private static DatabaseHandler inst = null;

@@ -17,6 +17,7 @@ public class Country {
     public Country(String name, String region, int rank, double score, double error,
                    double economy, double family, double health, double freedom,
                    double trust, double generosity, double dystopiaResidual ) {
+
         this.name = name;
         this.region = region;
         this.rank = rank;
